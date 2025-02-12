@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JanusAdamus
-- 👀 I’m interested in developing numerical methods and sthatistical analisis
+- 👀 I’m interested in developing numerical methods and statistics 
 - 🌱 I’m currently learning Assembly
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me janadrap@gmail.com  
 
 <!---
